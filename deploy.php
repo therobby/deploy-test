@@ -5,7 +5,7 @@ require 'recipe/common.php';
 
 // Config
 
-set('repository', '');
+set('repository', 'git@github.com:therobby/deploy-test.git');
 
 add('shared_files', []);
 add('shared_dirs', []);
