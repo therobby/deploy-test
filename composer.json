@@ -1,0 +1,13 @@
+{
+    "name": "karolkrzykowski/deployer-test",
+    "require-dev": {
+        "deployer/deployer": "^7.3"
+    },
+    "authors": [
+        {
+            "name": "Karol Krzykowski",
+            "email": ""
+        }
+    ],
+    "require": {}
+}
